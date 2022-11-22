@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/Msameim181/gdrive",
+	"ImportPath": "github.com/puskartrital/gdrive",
 	"GoVersion": "go1.6",
 	"GodepVersion": "v61",
 	"Deps": [

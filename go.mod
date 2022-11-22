@@ -1,4 +1,4 @@
-module github.com/Msameim181/gdrive
+module github.com/puskartrital/gdrive
 
 go 1.17
 
